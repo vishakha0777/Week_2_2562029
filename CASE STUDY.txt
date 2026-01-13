@@ -1,0 +1,110 @@
+01.13 10:51 AM
+CASE STUDY :
+    Student Attendance System Using Waterfall Model
+
+Problem Statement :
+A school wants to develop a Student Attendance System to automate daily attendance recording, generate monthly attendance reports, and notify parents automatically when a student is absent.
+The requirements are well-defined and unlikely to change, the Waterfall Model is chosen for system development.
+
+Requirements of the System
+To record daily student attendance accurately.
+To generate monthly attendance reports for teachers and administration.
+To send automatic notifications to parents in case of absence.
+
+Waterfall Model Phases :
+
+Phase 1 : Requirement Analysis
+In this phase, all requirements are gathered from the school, teacher and staff. The requirements are documented.
+
+Key activities :
+Understand the process of attendance.
+Identified users(Teachers, Admin, Parents).
+Documented Requirements.
+
+Outcome : 
+The requirements are gathered and documented in a Software Requirement Specification (SRS) document.
+
+Example :
+Preparing a list of requirements such as daily attendance entry and parent notification.
+
+Phase 2 : System Design
+The system architecture and design are prepared. Data structure and interface are designed based on the requirement document.
+
+Key activities :
+UI designed.
+Database design.
+System architecture planning.
+
+Outcome :
+ER diagram, flowcharts, system architecture.
+
+Example :
+Database design tables for student attendance.
+
+Phase 3 : Implementation
+Actual coding of the system is being processed into modules.
+
+Key Activities :
+Developing attendance entry module.
+Generate notification for parents.
+Creating report generation.
+
+Outcome :
+There is a developed modules.
+
+Example :
+The coding is done to store the attendance of students and notify parents.
+
+Phase 4 : Testing
+When the coding is completed the the modules are the modules are integrated and tested for deployment.
+
+Key Activities :
+Unit testing.
+Component testing.
+System testing.
+
+Outcome :
+Error free system and reliable.
+
+Example :
+The attendance is enrolled or not and either the parents are getting the notification of the attendance.
+
+
+Phase 5 : Deployment
+In this phase, the software is delivered and installed at the customer site and in school.
+
+Key Activities : 
+System installation
+User access
+
+Outcome :
+The system is handover to the users.
+
+Example :
+Installing the system in school environment as well as at parents site.
+
+Phase 6 : Maintainance
+In this phase, if the errors are found during use of the software, then it is corrected. Can give new updates.
+
+Key Activities :
+Bug fixing.
+Adding new features.
+Updating student records.
+
+Outcome :
+Use able system till its lifetime.
+
+
+Example :
+Updates are given of student attendance on academic year.
+
+
+Advantages of using waterfall model
+
+The Waterfall Model provided a clear, step-by-step structure, helping the school document requirements for attendance, reports, and notifications properly.
+Fixed phases made the Student Attendance System easy to plan and manage.
+
+Disadvantages of using waterfall model
+
+Any new requirement, such as adding biometric attendance, is difficult to include once development starts.
+ Testing is done late, so errors in attendance or notifications may be found only after full development.
